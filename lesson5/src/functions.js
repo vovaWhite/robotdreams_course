@@ -12,18 +12,3 @@ const secondArray = ['1', '2', '4'];
 
 console.log(arrSum(firstArray));
 console.log(arrSum(secondArray));
-
-
-// function arraySumForEach (ar) {
-//     let total = 0;
-//     ar.forEach(element2 => {
-//         total = total + element2;
-//     });
-//     return total;
-// }
-
-// const secondArr = [2, 3, 4, 5, 6, 10];
-// console.log(arraySumForEach(secondArr));
-
-
-// console.log(arraySumArrow(firstArray));
