@@ -1,4 +1,4 @@
-function arrSum (array: (number | string)[]): number {
+function arrSum (array: (number [] | string [])): number {
     let total = 0;
     for (const i of array)
         total += Number(i);
